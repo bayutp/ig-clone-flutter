@@ -1,16 +1,7 @@
-# cashy_apps
+# Instagram clone apps
 
-A new Flutter project.
+Clone instagram apps with flutter
 
-## Getting Started
+### Splash Screen 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[<img src="https://user-images.githubusercontent.com/13212986/209768159-4864156d-87ad-4666-9032-5a61e9c1eb7b.png " width="250"/>](Screenshot_1672208725)
